@@ -5,3 +5,4 @@ Se agrego tablas de https://www.db-fiddle.com/f/oUAGrLcge4uUoqrmbhPzfH/1
 se agrega tabla complementarias 021222 https://www.db-fiddle.com/f/oUAGrLcge4uUoqrmbhPzfH/2
 
 06122022 https://www.db-fiddle.com/f/oUAGrLcge4uUoqrmbhPzfH/3
+se agrego uno datos mas revisar https://www.db-fiddle.com/f/oUAGrLcge4uUoqrmbhPzfH/4
